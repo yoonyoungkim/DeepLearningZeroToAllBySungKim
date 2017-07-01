@@ -1,0 +1,82 @@
+# 섹션0. 오리엔테이션
+## 수업 소개와 개요
+
+# 섹션1. 머신러닝의 개념과 용어
+## 기본적인 Machine Learnning의 용어와 개념 설명
+## tensorflow의 설치 및 기본적인 operations
+
+# 섹션2. Linear Regression의 개념
+## Linear Regression의 Hypothesis와 cost
+## Tensorflow로 간단한 Linear Regression 구현
+
+# 섹션3. Linear Regression cost 함수 최소화
+## Linear Regression의 Cost 최소화 알고리즘의 원리
+## Linear Reagression의 Cost 최소화의 Tensorflow 구현
+
+# 섹션4. 여러개의 입력(feature)의 Linear Regression
+## Multi-variable Linear Regression
+## LAB 04-1. Multi-Variable Linear Regression
+## LAB 04-2. Tensorflow로 파일에서 데이터 읽어오기
+
+# 섹션5. Logistic (regression) Classification
+## LOGISTIC CLASSIFICATION의 가설 함수 정의
+## LOGISTIC REGRESSION의 COST 함수 설명
+## TENSORFLOW로 LOGISTIC CLASSIFICATION의 구현하기(NEW)
+
+# 섹션6. Softmax Regression (Multinomial Logistic Regression)
+## MULTINOMIAL 개념 소개
+## COST 함수 소개
+## LAB 06-1: TENSORFLOW로 SOFTMAX CLASSIFICATION의 구현하기 (NEW)
+## LAB 06-2: TENSORFLOW로 FANCY SOFTMAX CLASSIFICATION의 구현하기 (NEW)
+
+# 섹션7. ML의 실용과 몇가지 팁
+## 학습 RATE, OVERFITTING, 그리고 일반화 (REGULARIZATION)
+## TRAINING/TESTING 데이타 셋
+## LAB 07-1: TRAINING/TEST DATASET, LEARNING RATE, NORMALIZATION (NEW)
+## LAB 07-2: MEET MNIST DATASET (NEW)
+
+# 섹션8. 딥러닝의 기본 개념과, 문제, 그리고 해결
+## 딥러닝의 기본 개념: 시작과 XOR 문제
+## 딥러닝의 기본 개념2: BACK-PROPAGATION 과 2006/2007 ‘딥’의 출현
+## LAB : TENSOR MANIPULATION (NEW)
+
+# 섹션9. Neural Network1: XOR문제와 학습방법, Backpropagation
+## XOR 문제 딥러닝으로 풀기
+## 특별편: 10분안에 미분 정리하기
+## 딥넷트웍 학습 시키기 (BACKPROPAGATION)
+## LAB 9-1: XOR을 위한 텐스플로우 딥넷트웍 (NEW)
+## LAB 9-2: TENSOR BOARD로 딥네트웍 들여다보기 (NEW) 
+
+# 섹션10. Neural Network2: ReLU and 초기값 정하기(2006/2006 breakthrough)
+## XSIGMOID 보다 RELU가 더 좋아
+## WEIGHT 초기화 잘해보자
+## DROPOUT 과 앙상블
+## 레고처렴 넷트웍 모듈을 마음껏 쌓아 보자
+## LAB 10: 딥러닝으로 MNIST 98%이상 해보기(NEW)
+
+# 섹션11. Convolutional Neural Networks
+## CONVNET의 CONV 레이어 만들기
+## CONVNET MAX POOLING 과 FULL NETWORK
+## GOOGLE CLOUD ML WITH EXAMPLES 1
+## CONVNET의 활용 예
+## 실습1: TENSORFLOW CNN 의 기본
+## 실습2: TENSORFLOW로 구현하자 (MNIST 99%)
+## 실습3: CLASS, TF.LAYERS, ENSEMBLE (MNIST 99.5%)
+
+# 섹션12. Recurrent Neural Network
+## NN의 꽃 RNN 이야기
+## LAB 12-1 RNN – BASIC (NEW)
+## LAB 12-2 RNN – HI HELLO TRAINING (NEW)
+## LAB 12-3 : LONG SEQUENCE RNN (NEW)
+## LAB 12-4: STACKED RNN + SOFTMAX LAYER (NEW)
+## LAB 12-5: DYNAMIC RNN (NEW)
+## LAB 12-6: RNN WITH TIME SERIES DATA (NEW)
+
+# 섹션13. Deep Deep Network AWS에서 GPU와 돌려보기(powered bt AWS)
+## Powered By AWS
+
+# 섹션14. AWS에서 저렴하게 Spot Instance를 터미네이션 걱정없이 사용하기
+# AWS에서 저렴하게 SPOT INSTANCE를 터미네이션 걱정없이 사용하기
+
+# 섹션15. Google Cloud ML을 이용해 TensorFLow 실행하기
+## Google Cloud ML With Examples1
